@@ -6,3 +6,5 @@
 
 
 Implement the backpropagation algorithm to develop a neural network that classifies handwritten digits (0 through 9), trained over the MNIST dataset. 
+
+Files containing training data too large to upload to GitHub. 
